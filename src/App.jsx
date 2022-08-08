@@ -7,7 +7,6 @@ import "./App.css"
 function Gif() {
     return <div className="img-container">
         <img src="gif_caresse_ton_hector.gif" alt="GIF caresse ton Hector"></img>
-        <img src="gros_boulard.gif" alt="GIF du gros boulard d'Hector" />
     </div>
         
 }
@@ -30,7 +29,7 @@ function Button() {
     let speakerImage = <img src="speaker.png" alt="icone de speaker"></img>
 
     if (show === true) {
-        textButton = "Appuyer ici pour arrêter de caresser ce boulard de dieu"
+        textButton = "Appuyer ici pour arrêter de le caresser"
     }
 
     if (music === false) {
