@@ -27,7 +27,7 @@ function Button() {
     const [show, setShow] = useState(false)
     const [music, setMusic] = useState(true)
     let textButton = "Appuyer ici pour caresser le Hector"
-    let speakerImage = <img src="speaker.png" alt="icon de speaker"></img>
+    let speakerImage = <img src="speaker.png" alt="icone de speaker"></img>
 
     if (show === true) {
         textButton = "Appuyer ici pour arrêter de caresser ce boulard de dieu"
