@@ -6,8 +6,8 @@ import "./App.css"
 
 function Gif() {
     return <div className="img-container">
-        <img src="/gif_caresse_ton_hector.gif" alt="GIF caresse ton Hector"></img>
-        <img src="/gros_boulard.gif" alt="GIF du gros boulard d'Hector" />
+        <img src="gif_caresse_ton_hector.gif" alt="GIF caresse ton Hector"></img>
+        <img src="gros_boulard.gif" alt="GIF du gros boulard d'Hector" />
     </div>
         
 }
@@ -27,14 +27,14 @@ function Button() {
     const [show, setShow] = useState(false)
     const [music, setMusic] = useState(true)
     let textButton = "Appuyer ici pour caresser le Hector"
-    let speakerImage = <img src="/speaker.png" alt="icon de speaker"></img>
+    let speakerImage = <img src="speaker.png" alt="icon de speaker"></img>
 
     if (show === true) {
         textButton = "Appuyer ici pour arrêter de caresser ce boulard de dieu"
     }
 
     if (music === false) {
-        speakerImage = <img src="/no-speaker.png" alt="icone de no speaker" />
+        speakerImage = <img src="no-speaker.png" alt="icone de no speaker" />
     }
 
     return <div>
