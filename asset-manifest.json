@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/caresseTonHector/static/css/main.352d51fb.css",
-    "main.js": "/caresseTonHector/static/js/main.fda954cf.js",
+    "main.js": "/caresseTonHector/static/js/main.12beba44.js",
     "static/js/787.62c5774b.chunk.js": "/caresseTonHector/static/js/787.62c5774b.chunk.js",
     "static/media/stripclub.jpg": "/caresseTonHector/static/media/stripclub.05f38e4f05548e7eb468.jpg",
     "static/media/strip_enseigne.jpg": "/caresseTonHector/static/media/strip_enseigne.7ff3841cc025bcc4c140.jpg",
     "index.html": "/caresseTonHector/index.html",
     "main.352d51fb.css.map": "/caresseTonHector/static/css/main.352d51fb.css.map",
-    "main.fda954cf.js.map": "/caresseTonHector/static/js/main.fda954cf.js.map",
+    "main.12beba44.js.map": "/caresseTonHector/static/js/main.12beba44.js.map",
     "787.62c5774b.chunk.js.map": "/caresseTonHector/static/js/787.62c5774b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.352d51fb.css",
-    "static/js/main.fda954cf.js"
+    "static/js/main.12beba44.js"
   ]
 }
