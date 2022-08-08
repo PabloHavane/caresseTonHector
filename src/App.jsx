@@ -24,7 +24,7 @@ function Music() {
 // La logique pour les boutons est la même qui se répète : possibilté d'amélioration ? 
 function Button() {
     const [show, setShow] = useState(false)
-    const [music, setMusic] = useState(true)
+    const [music, setMusic] = useState(false)
     let textButton = "Appuyer ici pour caresser le Hector"
     let speakerImage = <img src="speaker.png" alt="icone de speaker"></img>
 
